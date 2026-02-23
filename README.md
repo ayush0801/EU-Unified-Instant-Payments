@@ -4,6 +4,14 @@ A BHIM-inspired unified payments application for the European Union enabling **p
 
 ---
 
+## 🚀 Live Prototype
+
+👉   ![**Figma Interactive Prototype**](https://www.figma.com/proto/5y6EAbVtvPOGtrwRulGXQv/Untitled?node-id=1-2&p=f&viewport=31%2C248%2C0.14&t=OLGcHZv0kmfqCe4Q-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&page-id=0%3A1)
+
+> Recommended: Open in desktop view for best experience.
+
+---
+
 ## 🚀 Overview
 
 EuroSwift is designed as a **Payment Initiation Service Provider (PISP)** that simplifies bank-to-bank payments across Europe by introducing a **phone alias abstraction layer**, similar to UPI in India.
