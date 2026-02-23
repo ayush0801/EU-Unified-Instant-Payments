@@ -1,4 +1,4 @@
-# EuroSwift — Unified Instant Payments for Europe
+# EuroSwift - Unified Instant Payments for Europe
 
 A BHIM-inspired unified payments application for the European Union enabling **phone-number–based P2P transfers** and **QR-based merchant payments** on top of **SEPA Instant** and **Open Banking**.
 
@@ -63,7 +63,8 @@ EuroSwift introduces:
 
 The platform operates as a **PISP orchestration layer** between users and banks.
 
-![EuroSwift PISP Architecture](euroswift_pisp_architecture_clean.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0b3a69f3-c052-4c8b-8c0e-fd225e790822" />
+
 
 ---
 
@@ -109,18 +110,18 @@ The platform operates as a **PISP orchestration layer** between users and banks.
 
 **Product & Design**
 
-- Figma — UX flows & prototype  
-- Notion — PRD & planning  
-- Stitch AI — UI generation  
+- Figma - UX flows & prototype  
+- Notion - PRD & planning  
+- Stitch AI - UI generation  
 
 **Architecture**
 
-- Mermaid / Eraser — system design  
-- GitHub — documentation  
+- Mermaid / Eraser - system design  
+- GitHub - documentation  
 
 **Analysis**
 
-- Excel — merchant economics  
+- Excel - merchant economics  
 - KPI framework defined  
 
 ---
@@ -194,4 +195,4 @@ This project demonstrates:
 
 ---
 
-**Status:** Portfolio Project — Ready for review & feedback
+**Status:** Portfolio Project - Ready for review & feedback
